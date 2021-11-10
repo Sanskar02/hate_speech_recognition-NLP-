@@ -1,0 +1,2 @@
+# hate_speech_recognition-NLP-
+Nowadays we are well aware of the fact that if social media platforms are not handled carefully then they can create chaos in the world.One of the problems faced on these platforms are usage of Hate Speech and Offensive Language.Usage of such Language often results in fights, crimes or sometimes riots at worst.So, Detection of such language is essential and as humans cannot monitor such large volumes of data, we can take help of AI and detect the use of such language and prevent users from using such languages.
